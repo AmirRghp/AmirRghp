@@ -8,6 +8,8 @@
 
 - 🌱 I’m currently learning **Python PyQt**
 
+- 🎓 Master's student at <a href="https://www.ustmb.ac.ir/En/Index" target="_blank">**Mazandaran University of Science and Technology**<a/>
+
 <br/>
 
 <div align="center">
