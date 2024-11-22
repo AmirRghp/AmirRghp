@@ -17,6 +17,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AmirRghp&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
+
 ###
 
 <img align="right" height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3picTB4ZTExYm9hNnFsNDN0ajAwMGJjdm13Z2t1ZHB1YTRjeGlqZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif"  />
@@ -52,6 +53,9 @@
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
   </a>
 </div>
+
+<br/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amirrghp&label=Profile%20views&color=0e75b6&style=flat" alt="amirrghp" /> </p>
 
 ###
 
