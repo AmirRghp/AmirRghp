@@ -22,6 +22,10 @@
 
 <img align="right" height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3picTB4ZTExYm9hNnFsNDN0ajAwMGJjdm13Z2t1ZHB1YTRjeGlqZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif"  />
 
+<a href="https://open.spotify.com/user/rlkor11d0ibg4btmxmhep2psj">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=rlkor11d0ibg4btmxmhep2psj&count=3&unique=false" alt="Spotify recently played"  />
+</a>
+
 ###
 
 <div align="left">
