@@ -4,9 +4,7 @@
 
 <br/>
 
-- 🔭 I’m currently working on **Mini Storage Project**
-
-- 🌱 I’m currently learning **Python PyQt**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 🎓 Master's student at <a href="https://www.ustmb.ac.ir/En/Index" target="_blank">**Mazandaran University of Science and Technology**<a/>
 
